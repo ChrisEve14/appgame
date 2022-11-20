@@ -1,7 +1,6 @@
 {
   "name": "appgame",
   "version": "1.0.0",
-  "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -10,6 +9,7 @@
   },
   "dependencies": {
     "expo": "~47.0.6",
+    "expo-font": "^11.0.1",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
     "react-native": "0.70.5"
